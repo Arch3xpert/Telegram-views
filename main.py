@@ -117,8 +117,8 @@ def check_views():
 
 
 logo = '''
-   ~ Telegram Auto Views By [ @DarkhatHacker75 ] ~
-       ~ JOIN MY CHANNEL FOR DAILY AMAZING GIVEAWAYS https://t.me/demonicshop  ~
+   ~ Telegram Auto Views By [ @Archxpert ] ~
+       ~ Want To Purchase Auto Views Tool Or Line Views Tool Real Views members will join and see you channel instant unlimited messages Contact us  ~
 '''
 
 
